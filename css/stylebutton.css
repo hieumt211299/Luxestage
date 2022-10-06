@@ -1,0 +1,20 @@
+
+a{
+  text-decoration: none;
+}
+.button
+{
+  background-color: rgb(71, 66, 66);
+  display: inline-block;
+  padding: 10px 20px;
+  margin-top: 10px;
+  color: #fff;
+  text-transform: uppercase;
+  border-radius: 5px ;
+}
+
+.button:hover
+{
+  background-color: rgb(206, 159, 98);
+  color: red;
+}
